@@ -14,3 +14,5 @@ How It Works:
 The user is presented with a sidebar containing a list of colors.
 Each color in the list is clickable. When a user clicks on a color, the background color of the main content area on the right changes to the selected color.
 The project utilizes Tailwind CSS for styling and JavaScript for dynamic content manipulation.
+
+**View UI --> sample-ui.png**
