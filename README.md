@@ -1,4 +1,5 @@
 Description:
+
 ColorTap is a simple web application that allows users to dynamically change the background color of a display area based on their selection from a list of colors. The application is built using HTML, Tailwind CSS, and JavaScript, providing an interactive and visually appealing user interface. This project showcases how to use JavaScript to manipulate DOM elements and update the style properties in response to user interactions.
 
 Features:
